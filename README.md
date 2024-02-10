@@ -1,6 +1,5 @@
 ## Download and Run
-
-This repository includes the Mac and Windows applications to run the game. Alternatively, follow these simple steps:
+To play the game, follow these simple steps:
 
 1. **Download Processing**: If you haven't already, download and install Processing from [Processing website](https://processing.org/download/).
 
