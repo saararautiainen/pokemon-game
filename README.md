@@ -13,7 +13,7 @@ To play the game, follow these simple steps:
 4. **Run the Game**:
    - With the game code open in Processing, click the "Run" button (or press `Ctrl + R` / `Cmd + R`) to compile and run the game.
 
-5. **Enjoy Playing!**: Once the game window opens, follow the on-screen instructions to play [Game Name].
+5. **Enjoy Playing!**: Once the game window opens, follow the on-screen instructions to play.
 
 ## Requirements
 
